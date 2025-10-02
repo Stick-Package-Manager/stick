@@ -1,6 +1,6 @@
 # Stick - A Simple AUR Package Manager
 
-**Stick** is a minimal, fast, and open-source package manager for Arch Linux that supports AUR packages and handles dependencies automatically.
+**Stick** is a minimal, fast, and open-source package manager for Arch Linux written in V that supports AUR packages and handles dependencies automatically.
 
 ---
 
@@ -32,11 +32,6 @@ It contains:
 - stick.conf - the main configuration file  
 - pkgs/ - installed packages  
 - cache/ - temporary downloads  
-
-Default configuration:  
-
-`root="~/.stick"  
-repos=["https://aur.archlinux.org"]`
 
 ---
 
