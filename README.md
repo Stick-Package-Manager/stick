@@ -1,4 +1,4 @@
 # Stick marketing assets
 
 Logo:
-[stick_logo.png]
+https://github.com/ihatemustard/stick/blob/assets/stick_logo.png?raw=true
