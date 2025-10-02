@@ -1,2 +1,2 @@
 # stick
-The 4 KB Package Manager
+Currently in developement.
