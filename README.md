@@ -2,7 +2,7 @@
 
 # Stick Package Manager
 
-A minimal, isolated source-based package manager written in V for the Arch User Repository (AUR). Designed for old systems and users who want clean, containerized package management without polluting the root filesystem.
+A minimal, isolated source-based package manager written in V for the Arch User Repository (AUR). Designed for old systems and users who want clean file management without polluting the root filesystem.
 
 ## **Disclaimer**  
 Stick is still in active development and is **not yet ready for use**.  
