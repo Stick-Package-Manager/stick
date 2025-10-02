@@ -4,7 +4,7 @@ Logo:
 
 ![Stick Logo](https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png)
 
-ASCII:
+ASCII Logo:
 
                                                                      
                                                                      
