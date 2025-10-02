@@ -4,6 +4,10 @@
 
 A minimal, isolated source-based package manager written in V for the Arch User Repository (AUR). Designed for old systems and users who want clean, containerized package management without polluting the root filesystem.
 
+## **Disclaimer**  
+Stick is still in active development and is **not yet ready for use**.  
+While this repository already includes the README, documentation, and other project files, the package manager itself is currently inaccessible and incomplete.  
+
 ## Features
 
 - **AUR Search** - Search packages directly from the Arch User Repository
