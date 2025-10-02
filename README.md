@@ -4,6 +4,7 @@
 
 **Stick** is a minimal, fast, and open-source package manager for Arch Linux written in V that supports AUR packages and handles dependencies automatically.
 
+Installation Guide: https://github.com/ihatemustard/stick/wiki/Installation-Guide
 ---
 
 ## Features
