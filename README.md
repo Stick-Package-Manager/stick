@@ -3,7 +3,7 @@
   
 # Stick - A Simple AUR Package Manager
 
-**Stick** *(Simple Tool for Installing Code)* is a minimal, fast, and open-source package manager for Arch Linux written in V that supports AUR packages and handles dependencies automatically.
+**Stick** *(**S**imple **T**ool for **I**nstalling **C**ode **K**its)* is a minimal, fast, and open-source package manager for Arch Linux written in V that supports AUR packages and handles dependencies automatically.
 
 ---
 
