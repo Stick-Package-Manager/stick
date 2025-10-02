@@ -85,4 +85,6 @@ List installed packages:
 - System packages are installed via pacman as needed.  
 - Requires sudo for installing system dependencies.
 
+> View on GitHub: https://github.com/Stick-Package-Manager/stick
+
 ## THIS IS A WIP
