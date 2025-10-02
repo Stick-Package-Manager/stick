@@ -2,7 +2,7 @@
 
 Logo:
 
-![Stick Logo](https://github.com/ihatemustard/stick/blob/assets/stick_logo.png?raw=true)
+![Stick Logo](https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png)
 
 ASCII:
 
