@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ihatemustard/stick/blob/assets/stick_logo.png?raw=true" width="100" height="100" alt="Stick Logo">
+<img src="https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png" width="100" height="100" alt="Stick Logo">
   
 # Stick - A Simple AUR Package Manager
 
