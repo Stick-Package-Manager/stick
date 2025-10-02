@@ -19,17 +19,7 @@
 - Arch Linux (or derivative)  
 - pacman for system packages  
 - makepkg for building AUR packages  
-- Internet connection  
-
----
-
-## Installation
-
-1. Clone or download the Stick source code.  
-2. Compile using V:  
-v -o stick main.v  
-3. Move the binary to a directory in your PATH, for example:  
-sudo mv stick /usr/local/bin/  
+- Internet connection    
 
 ---
 
