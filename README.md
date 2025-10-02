@@ -1,5 +1,7 @@
 ## THIS IS A WIP
 
+<img src="https://github.com/ihatemustard/stick/blob/assets/stick_logo.png?raw=true" width="100" height="100" alt="Stick Logo">
+  
 # Stick - A Simple AUR Package Manager
 
 **Stick** is a minimal, fast, and open-source package manager for Arch Linux written in V that supports AUR packages and handles dependencies automatically.
