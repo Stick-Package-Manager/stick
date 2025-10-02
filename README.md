@@ -444,7 +444,6 @@ ls -la ~/.stick
 ## 📊 Project Stats
 
 - **Language**: V (Vlang)
-- **Dependencies**: Minimal (V stdlib + system tools)
 - **Platform**: Arch Linux and derivatives
 - **Repository**: AUR-focused
 
