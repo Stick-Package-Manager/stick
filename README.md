@@ -8,19 +8,19 @@ A minimal, isolated source-based package manager written in V for the Arch User 
 Stick is still in active development and is **not yet ready for use**.  
 While this repository already includes the README, documentation, and other project files, the package manager itself is currently inaccessible and incomplete.  
 
-## ✨ Features
+## Features
 
-- 🔍 **AUR Search** - Search packages directly from the Arch User Repository
-- 📦 **Isolated Installation** - Packages install to `~/.stick` with symlinked binaries
-- 🔗 **Automatic Dependency Resolution** - Handles both AUR and system dependencies
-- 🔄 **Smart Upgrades** - Version-aware upgrade system for all packages
-- ♻️ **Reinstall Support** - Force reinstall any package
-- 🗑️ **Clean Removal** - Remove packages without system pollution
-- 📋 **Package Tracking** - List installed packages with versions
-- 🪶 **Lightweight** - Minimal dependencies and fast performance
-- 🎯 **AUR-Focused** - Purpose-built for AUR packages only
+- **AUR Search** - Search packages directly from the Arch User Repository
+- **Isolated Installation** - Packages install to `~/.stick` with symlinked binaries
+- **Automatic Dependency Resolution** - Handles both AUR and system dependencies
+- **Smart Upgrades** - Version-aware upgrade system for all packages
+- **Reinstall Support** - Force reinstall any package
+- **Clean Removal** - Remove packages without system pollution
+- **Package Tracking** - List installed packages with versions
+- **Lightweight** - Minimal dependencies and fast performance
+- **AUR-Focused** - Purpose-built for AUR packages
 
-## 🏗️ Architecture
+## Architecture
 
 Stick uses an isolated installation approach:
 
@@ -42,7 +42,7 @@ Stick uses an isolated installation approach:
 3. **Your PATH is updated** automatically (in `.bashrc` or `.zshrc`)
 4. **System stays clean** - easy to track what Stick manages
 
-## 📋 Prerequisites
+## Prerequisites
 
 - [V compiler](https://vlang.io/) (latest version recommended)
 - `pacman` package manager (Arch Linux or derivative)
@@ -58,7 +58,7 @@ Stick uses an isolated installation approach:
 sudo pacman -S base-devel git
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Quick Install (Recommended)
 
@@ -99,7 +99,7 @@ v stick.v
 ./stick search vim
 ```
 
-## 📖 Usage
+## Usage
 
 ### Command Overview
 
@@ -120,7 +120,7 @@ stick <command> [package]
 
 ---
 
-### 🔍 Search Packages
+### Search Packages
 
 Search the AUR for available packages:
 
@@ -137,7 +137,7 @@ neovim - Fork of Vim aiming to improve user experience
 
 ---
 
-### 📦 Install Packages
+### Install Packages
 
 Install a package from AUR with automatic dependency resolution:
 
@@ -175,7 +175,7 @@ yay installed successfully.
 
 ---
 
-### 🗑️ Remove Packages
+### Remove Packages
 
 Remove an installed package:
 
@@ -190,7 +190,7 @@ This removes:
 
 ---
 
-### 📋 List Installed Packages
+### List Installed Packages
 
 Show all packages managed by Stick:
 
@@ -208,7 +208,7 @@ Installed packages:
 
 ---
 
-### 🔄 Upgrade All Packages
+### Upgrade All Packages
 
 Update all installed packages to the latest AUR versions:
 
@@ -239,7 +239,7 @@ Upgrade complete.
 
 ---
 
-### ♻️ Reinstall Packages
+### Reinstall Packages
 
 Force reinstall a package (useful for fixing broken installations):
 
@@ -253,7 +253,7 @@ This performs:
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Configuration File
 
@@ -281,7 +281,7 @@ source ~/.bashrc  # or ~/.zshrc
 
 ---
 
-## 🔧 Dependency Resolution
+## Dependency Resolution
 
 Stick intelligently handles dependencies:
 
@@ -308,7 +308,7 @@ Installing: yay
 
 ---
 
-## 🎯 Examples
+## Examples
 
 ### Install a Complete Development Environment
 
@@ -347,18 +347,17 @@ stick reinstall discord-canary
 
 ---
 
-## 🚨 Known Limitations
+## Known Limitations
 
-- **AUR Only** - Does not manage official Arch repository packages
 - **No Rollback** - Cannot revert to previous package versions
-- **Manual Conflicts** - Does not automatically resolve package conflicts
+- **Manual Conflicts** - Does not automatically resolve package conflicts (yet)
 - **Limited Testing** - Primarily tested on Arch Linux
 - **System Integration** - Uses `pacman` for actual installation (not fully isolated)
 - **Binary Linking** - Only links executables, not libraries or config files
 
 ---
 
-## 🔒 Security Considerations
+## Security Considerations
 
 ⚠️ **IMPORTANT**: Stick executes PKGBUILD scripts from the AUR, which can contain arbitrary code.
 
@@ -385,7 +384,7 @@ stick install <package>
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Package Won't Install
 
@@ -441,7 +440,7 @@ ls -la ~/.stick
 
 ---
 
-## 📊 Project Stats
+## Project Stats
 
 - **Language**: V (Vlang)
 - **Platform**: Arch Linux and derivatives
@@ -449,7 +448,7 @@ ls -la ~/.stick
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 Future improvements planned:
 
@@ -465,7 +464,7 @@ Future improvements planned:
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 **Q: Does this replace pacman?**  
 A: No, Stick is designed for AUR packages only. Use `pacman` for official repositories.
@@ -484,11 +483,11 @@ A: Currently no. Use AUR web interface to check package signatures and comments.
 
 ---
 
-## 📧 Support
+## Support
 
 - **Issues**: [GitHub Issues](https://github.com/Stick-Package-Manager/stick/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Stick-Package-Manager/stick/discussions)
 
 ---
 
-**Made with ❤️ for the Arch Linux community**
+**Made with ❤️ for & by the Arch Linux community**
