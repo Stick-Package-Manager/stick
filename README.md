@@ -92,13 +92,11 @@ sudo mv stick /usr/local/bin/
 stick
 ```
 
-### Development Build
+### Run directly
 
 ```bash
-# Debug build (faster compilation)
 v stick.v
 
-# Run directly
 ./stick search vim
 ```
 
