@@ -479,25 +479,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## Acknowledgments
-
-- [V Programming Language](https://vlang.io/) - Fast, safe, compiled language
-- [Arch User Repository](https://aur.archlinux.org/) - Community-driven package repository
-- [Arch Linux](https://archlinux.org/) - The parent distribution
-- Inspired by `yay`, `paru`, and `pacman`
-
----
-
-## Project Stats
-
-- **Language**: V (Vlang)
-- **Dependencies**: Minimal (V stdlib + system tools)
-- **Platform**: Arch Linux and derivatives
-- **Repository**: AUR-focused
+This project is licensed under the MPL 2.0 License - see the LICENSE file for details.
 
 ---
 
