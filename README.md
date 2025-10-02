@@ -1,4 +1,4 @@
-# Stick marketing assets
+# Stick assets
 
 Logo:
 
