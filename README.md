@@ -1,5 +1,3 @@
-## THIS IS A WIP
-
 <img src="https://github.com/ihatemustard/stick/blob/assets/stick_logo.png?raw=true" width="100" height="100" alt="Stick Logo">
   
 # Stick - A Simple AUR Package Manager
@@ -84,4 +82,6 @@ List installed packages:
 
 - Stick does **not** modify system-wide package databases; it only tracks AUR packages in its own directory.  
 - System packages are installed via pacman as needed.  
-- Requires sudo for installing system dependencies.  
+- Requires sudo for installing system dependencies.
+
+## THIS IS A WIP
