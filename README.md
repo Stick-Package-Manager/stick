@@ -527,4 +527,4 @@ A: System dependencies install 5-10x faster with parallel processing. Upgrades a
 
 **Made with <3 for and by the Arch Linux community**
 
-© 2025 ihatemustard & Stick Package Manager contributors
+© 2025 [ihatemustard](https://github.com/ihatemustard) & [Stick Package Manager contributors](https://github.com/Stick-Package-Manager/stick/graphs/contributors)
