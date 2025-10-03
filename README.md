@@ -11,7 +11,7 @@ A minimal, isolated source-based package manager written in V for the Arch User 
 
 ## **Disclaimer**  
 Stick is still in active development and is **not yet ready for use**.  
-While this repository already includes the README, documentation, and other project files, the package manager itself is currently inaccessible and incomplete.  
+While this repository already includes the README, documentation, and other project files, the package manager itself is currently incomplete.  
 
 ## Features
 
