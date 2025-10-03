@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png" width="100" height="100" alt="Stick Logo">
+<a href="https://github.com/Stick-Package-Manager/">
+  <img src="https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png" width="100" height="100" alt="Stick Logo">
+</a>
 
 # Stick Package Manager
 
