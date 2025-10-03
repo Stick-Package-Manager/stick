@@ -498,6 +498,8 @@ Future improvements planned:
 - [X] Package checksum verification
 - [ ] Advanced conflict resolution
 - [ ] Package statistics
+- [ ] Add normal pacman repos
+- [ ] Fully intigrate custom repos
 
 ---
 
