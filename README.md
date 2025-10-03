@@ -1,8 +1,11 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/Stick-Package-Manager/stick/refs/heads/assets/stick_logo.png" width="100" height="100" alt="Stick Logo">
 
 # Stick Package Manager
 
 A minimal, isolated source-based package manager written in V for the Arch User Repository (AUR). Designed for old systems and users who want clean file management without polluting the root filesystem.
+
+</div>
 
 ## **Disclaimer**  
 Stick is still in active development and is **not yet ready for use**.  
