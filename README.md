@@ -522,7 +522,7 @@ A: System dependencies install 5-10x faster with parallel processing. Upgrades a
 
 - **Issues**: [GitHub Issues](https://github.com/Stick-Package-Manager/stick/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Stick-Package-Manager/stick/discussions)
-
+- **E-Mail**: <stickpm@proton.me>
 ---
 
 **Made with <3 for and by the Arch Linux community**
