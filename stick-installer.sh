@@ -10,7 +10,7 @@ BOLD='\033[1m'
 NC='\033[0m'
 
 STICK_URL="https://raw.githubusercontent.com/Stick-Package-Manager/stick/main/stick.v"
-STICK_LITE_URL="https://raw.githubusercontent.com/Stick-Package-Manager/stick/main/stick-lite.v"
+STICK_LITE_URL="https://raw.githubusercontent.com/Stick-Package-Manager/lite/main/stick-lite.v"
 STICKFETCH_URL="https://raw.githubusercontent.com/Stick-Package-Manager/stick/main/stickfetch.v"
 INSTALL_DIR="/tmp/stick_install_$$"
 
