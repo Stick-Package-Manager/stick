@@ -71,13 +71,13 @@ sudo pacman -S base-devel
 ### Quick Install (Recommended)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Stick-Package-Manager/stick/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Stick-Package-Manager/installer/main/install.sh | bash
 ```
 
 Or with `wget`:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/Stick-Package-Manager/stick/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/Stick-Package-Manager/installer/main/install.sh | bash
 ```
 
 ### Manual Installation
