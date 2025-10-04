@@ -67,6 +67,7 @@ sudo pacman -S base-devel
 ```
 
 ## Installation
+## Installation
 
 ### Quick Install (Recommended)
 
@@ -80,29 +81,12 @@ Or with `wget`:
 wget -qO- https://raw.githubusercontent.com/Stick-Package-Manager/installer/main/install.sh | bash
 ```
 
-### Manual Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Stick-Package-Manager/stick.git
-cd stick
-
-# Build with V
-v -prod stick.v
-
-# Move to system path
-sudo mv stick /usr/local/bin/
-
-# Verify installation
-stick
-```
-
 ### Run directly
 
 ```bash
-v stick.v
+v stick-lite.v
 
-./stick search vim
+./stick install vim
 ```
 
 ## Usage
